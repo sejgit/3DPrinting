@@ -1,0 +1,3 @@
+Sources for Extruder rotation vizualizer
+
+NEMA (extruder) motor rotation indicator (Prusa i3 MK2/MK2S/MK3) (https://www.thingiverse.com/thing:2638857)
