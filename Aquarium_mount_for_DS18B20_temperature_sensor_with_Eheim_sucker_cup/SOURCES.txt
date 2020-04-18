@@ -1,0 +1,3 @@
+Sources for Aquarium mount for DS18B20 temperature sensor with Eheim sucker cup
+
+suction cup mount for DS18B20/DS18S20 temperature sensors (Aquarium) (http://www.thingiverse.com/thing:3640844)
