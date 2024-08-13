@@ -11,16 +11,16 @@
 // preview[view:north, tilt:bottom diagonal]
 
 // width of the orifice
-holder_x_size = 42;
+holder_x_size = 123;
 
 // depth of the orifice
-holder_y_size = 20;
+holder_y_size = 15;
 
 // hight of the holder
-holder_height = 20;
+holder_height = 35;
 
 // how thick are the walls. Hint: 6*extrusion width produces the best results.
-wall_thickness = 1.85;
+wall_thickness = 2.4;
 
 // how many times to repeat the holder on X axis
 holder_x_count = 1;
