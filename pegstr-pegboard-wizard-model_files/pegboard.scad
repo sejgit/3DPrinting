@@ -11,25 +11,25 @@
 // preview[view:north, tilt:bottom diagonal]
 
 // width of the orifice
-holder_x_size = 10;
+holder_x_size = 23;
 
 // depth of the orifice
-holder_y_size = 10;
+holder_y_size = 31;
 
 // hight of the holder
-holder_height = 15;
+holder_height = 40;
 
 // how thick are the walls. Hint: 6*extrusion width produces the best results.
-wall_thickness = 1.85;
+wall_thickness = 3;
 
 // how many times to repeat the holder on X axis
 holder_x_count = 1;
 
 // how many times to repeat the holder on Y axis
-holder_y_count = 2;
+holder_y_count = 1;
 
 // orifice corner radius (roundness). Needs to be less than min(x,y)/2.
-corner_radius = 30;
+corner_radius = 10;
 
 // Use values less than 1.0 to make the bottom of the holder narrow
 taper_ratio = 1.0;
